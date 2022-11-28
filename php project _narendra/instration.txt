@@ -1,0 +1,21 @@
+step 1 :
+install xammp.
+then ran as asministator xammp control and start "Apache" as well as start "MySQL" then minimise XAMMP Control Panel.
+
+step 2 :
+find the install decerectory xaamp,then find htdocs folder anda past project folder or creat new project folder.
+
+or  find the parth  C:\xampp\htdocs and creat new project folder.
+
+step 3 :
+open the web browser. then type such bar "localhost/phpmyadmin/" THEN CREAT NWE DATABASE.
+	THEN CREAT NEW DATABASE NAME 
+		OR
+EXAMPLE	:CLICK DATABASE "New" then,database name "project php" then creat.
+step 4 :
+CLICK DATABASE "New" then,database name creat & creat new table.
+			or
+example : import database table "admin" as well as "employee"
+
+
+Open the any web browser. i recomende google choram or mirzila Firefox then type addressber "localhost/project name folder"
